@@ -102,7 +102,7 @@ google-plus-share: True
 tumblr-share: True
 pinterest-share: True
 #pocket-share: False
-vkontakte-share: True
+#vkontakte-share: True
 
 disqus-shortname: "doingtolearn"
 
