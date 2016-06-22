@@ -55,8 +55,10 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "The Only Failures You Fail to Learn From are True Failures"
+  - text: "The Only Failures You Have are Those you Fail to Learn From"
   - text: "Follow Me Fail my Way to Success"
+  - text: "Giving Up is the Only Sure Way to Fail"
+  
 
 me-img: "/img/jetpacktocat.png"
 
