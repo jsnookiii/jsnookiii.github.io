@@ -128,7 +128,7 @@ timeline-img: "/img/timeline/default.png"
 # Contact #
 ###########
 
-email: "your@email.here"
+email: "doing2learn@gmail.com"
 
 ################
 # Author Blurb #
@@ -138,7 +138,7 @@ email: "your@email.here"
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "John Smith is an awesome person. He lives in Flatland, where he works on two-dimensional engineering projects. In his spare time, John likes to eat cotton candy."
+author_blurb: "Hi Im James. Hailing from Missouri I am know to be a stubborn person who believes that I have to fail at something to learn how do to do it properly.  Every project and new tiem you see is a response to something new I wish to learn or build.  if you have any question feel free to email me"
 author_blurb_image: "/img/author.png"
 
 ##################
@@ -150,10 +150,10 @@ social:
     url: "https://facebook.com/"
   - title: "twitter"
     url: "https://twitter.com/"
-  - title: "github"
-    url: "https://github.com/PanosSakkos/personal-jekyll-theme"
-  - title: "bitcoin"
-    url: "https://blockchain.info/address/1LHuKC9Em3KA5yoZaf7nngnNdf9K7s2gSi"
+ # - title: "github"
+  #  url: "https://github.com/PanosSakkos/personal-jekyll-theme"
+ # - title: "bitcoin"
+  #  url: "https://blockchain.info/address/1LHuKC9Em3KA5yoZaf7nngnNdf9K7s2gSi"
   - title: "rss"
     url: "/feed.xml"
 
