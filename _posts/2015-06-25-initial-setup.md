@@ -3,7 +3,9 @@ layout: post
 section-type: post
 title: Initial setup
 category: tech
-tags: [ 'tutorial' ]
+tags:
+  - tutorial
+published: false
 ---
 
 All features of { Personal } are controlled by setting values to variables that are defined in the
