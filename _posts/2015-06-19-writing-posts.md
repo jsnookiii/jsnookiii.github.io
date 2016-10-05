@@ -3,7 +3,9 @@ layout: post
 section-type: post
 title: Writing posts
 category: tech
-tags: [ 'tutorial' ]
+tags:
+  - tutorial
+published: false
 ---
 
 ### Creating a new post
