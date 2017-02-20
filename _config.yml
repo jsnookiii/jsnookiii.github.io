@@ -60,7 +60,7 @@ lines: # You can add HTML Tags in the Text
   - text: "Giving Up is the Only Sure Way to Fail"
   
 
-me-img: "/img/flaming-skull.jpg"
+me-img: "/img/doing-to-learn.jpg"
 
 ##############################
 # Color the browser elements #
@@ -113,7 +113,7 @@ syntax-highlight: True
 ############
 
 events:
-  - image: "/img/flaming-skull.jpg"
+  - image: "/img/doing-to-learn.jpg"
     date: "October 2016 - Today"
     description: "Start of the Project"
 
